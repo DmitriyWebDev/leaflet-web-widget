@@ -3,7 +3,6 @@
 .idea/
 *.iml
 node_modules/
-dist/
 coverage/
 
 # common.gitignore --- END
